@@ -13,7 +13,7 @@ Agente [[CURADOR]] (cosecha lecciones) · [[especialista-invitado]]
 [[abrir-sesion]] · [[cerrar-sesion]] · [[backlog-max-1-in-progress]] · [[history-append-only]] · [[consolidar-notas]]
 
 ## 03 · Gates (frontera con producción)
-[[ci-build-de-produccion]] · [[staging-identico-a-prod]] · [[smoke-test-de-navegador]] · [[runner-de-migraciones]] · [[restore-drill]] · [[revision-de-seguridad]] · [[observabilidad]]
+[[ci-build-de-produccion]] · [[staging-identico-a-prod]] · [[smoke-test-de-navegador]] · [[runner-de-migraciones]] · [[migraciones-y-procesos-destructivos]] · [[restore-drill]] · [[revision-de-seguridad]] · [[observabilidad]]
 Implementación por stack → `03-Gates/Adaptadores/`
 
 ## 04 · Auditorías (revisar antes de publicar)
